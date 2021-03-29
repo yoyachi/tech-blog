@@ -11,11 +11,19 @@ This application follows MVC paradigm in its arthitectural structure, using Hand
 Please, clone the repo. Then navigate to the root folder, run the following commands from the CLI:
 
 Run Test:
+
  npm run test
  
  Seed DB:
+ 
  npm run seed
  
  Start Server:
+ 
  npm start server
+ 
+ ## License
+ 
+ MIT
+ 
 

@@ -12,15 +12,15 @@ Please, clone the repo. Then navigate to the root folder, run the following comm
 
 1. Run Test:
 
-* npm run test
+`` npm run test ``
  
 2. Seed DB:
  
-* npm run seed
+`` npm run seed ``
  
 3. Start Server:
  
-* npm start server
+`` npm start server ``
  
  ## Technologies Used
  
@@ -50,4 +50,5 @@ You will also need
 
  ## License
  
- MIT
+ [MIT]
+ (https://choosealicense.com/licenses/mit/)

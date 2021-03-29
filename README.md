@@ -2,7 +2,7 @@
 
 ## Description
 
-This is an application for developer where they can publish their blog posts and comment on other developers' posts as well. 
+This is an application for developers where they can publish their blog posts and comment on other developers' posts as well. 
 
 This application follows MVC paradigm in its arthitectural structure, using Handlebars.js as the templating language, Sequelize as the ORM, and the express-session npm package for authentication.
 

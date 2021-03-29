@@ -1,5 +1,5 @@
 const router = require('express').Router();
-const { resourceLimits } = require('node:worker_threads');
+
 const { User, Post, Comment } = require('../../models');
 const withAuth = require('../../utils/auth');
 const { route } = require('./comment-routes');

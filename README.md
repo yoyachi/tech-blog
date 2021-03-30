@@ -52,3 +52,11 @@ You will also need
  
  [MIT]
  (https://choosealicense.com/licenses/mit/)
+ 
+ ![Screen Shot 2021-03-30 at 2 11 35 PM](https://user-images.githubusercontent.com/69886471/113043531-31027800-9162-11eb-915b-dadfd6063588.png)
+
+![Screen Shot 2021-03-30 at 2 11 42 PM](https://user-images.githubusercontent.com/69886471/113043566-3c55a380-9162-11eb-9903-8718c219e5e9.png)
+
+![Screen Shot 2021-03-30 at 2 11 48 PM](https://user-images.githubusercontent.com/69886471/113043578-424b8480-9162-11eb-9660-595b74c27e91.png)
+
+![Screen Shot 2021-03-30 at 2 11 54 PM](https://user-images.githubusercontent.com/69886471/113043595-4aa3bf80-9162-11eb-8fbd-e9c206594e72.png)

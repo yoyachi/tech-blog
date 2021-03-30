@@ -39,7 +39,7 @@ const commentData = [
     {
         user_id: 2,
         post_id: 1,
-        comment_text: "These are wonderful colors!"
+        comment_text: "How remarkable!"
     }
 ]
 

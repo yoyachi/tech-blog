@@ -50,7 +50,7 @@ Also needed
 
  ## License
  
- **[MIT]
+ **MIT
  (https://choosealicense.com/licenses/mit/)**
  
  ![Screen Shot 2021-03-30 at 2 11 35 PM](https://user-images.githubusercontent.com/69886471/113043531-31027800-9162-11eb-915b-dadfd6063588.png)

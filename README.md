@@ -30,7 +30,7 @@ Model-View-Controller paradigm
 * MySql2
 * Sequelize
 
-Also needed
+**Also used**
 
 * Dotenv package (to use enviroment variables).
 * Bcrypt package (to hash passwords).

@@ -36,7 +36,11 @@ Please, clone the repo. Then navigate to the root folder, run the following comm
 * Bcrypt package (to hash passwords).
 * Express-session package.
 * Connect-session-sequelize package (to add authentication).
+
+ ## License
  
+ **MIT
+ (https://choosealicense.com/licenses/mit/)** 
 
 ## Screenshot
 
@@ -48,10 +52,7 @@ Please, clone the repo. Then navigate to the root folder, run the following comm
 
 ![Screen Shot 2021-03-28 at 9 14 48 PM](https://user-images.githubusercontent.com/69886471/112882602-c7676880-9092-11eb-8719-a19b23982b08.png)
 
- ## License
- 
- **MIT
- (https://choosealicense.com/licenses/mit/)**
+
  
  ![Screen Shot 2021-03-30 at 2 11 35 PM](https://user-images.githubusercontent.com/69886471/113043531-31027800-9162-11eb-915b-dadfd6063588.png)
 

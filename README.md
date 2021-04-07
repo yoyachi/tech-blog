@@ -24,7 +24,7 @@ Please, clone the repo. Then navigate to the root folder, run the following comm
  
  ## Technologies Used
  
-Model-View-Controller paradigm
+**Model-View-Controller paradigm**
 
 * Express-handlebars
 * MySql2
